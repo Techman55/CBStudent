@@ -1,2 +1,2 @@
-# CBStudent
-Online resources for CBStudent Shortcut
+# TechmanShortcuts
+Online resources for Shortcuts published by @Techman on RoutineHub
