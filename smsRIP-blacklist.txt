@@ -1,3 +1,0 @@
-smsRIP_blacklist
-982-08
-jackgh

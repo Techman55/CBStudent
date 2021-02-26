@@ -8,5 +8,6 @@ Cloud resources for Shortcuts published by [@Techman](https://routinehub.co/user
 
     Connected Features:
     
-    * Blacklisted Recipient Filtering (BRF)
+    * Tips and Tricks Notifications
+	* Blacklisted Recipient Filtering (BRF)
     

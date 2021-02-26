@@ -1,3 +1,0 @@
-v1.3
-  - Developer Notes - smsRIP will check for Tips and Tricks on launch and show them to you
-  
